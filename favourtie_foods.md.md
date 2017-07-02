@@ -1,4 +1,4 @@
-favourite foods
+Favourite Foods
 
 1) Biryani
 2) Burgers
